@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476772445 source:c:\users\bing\desktop\bing\mgci\sph4u0\collision simulation\collisionsimulation\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+
